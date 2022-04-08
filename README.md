@@ -390,21 +390,21 @@ Membuat validasi nama, Email
 
 1. Nama<br>
    Saya akan memberikan Validasi berupa inputan hanya boleh mengguankan Huruf/Alphabet saja. Contoh: Sardin (benar), Sardin31 (salah).<br>
-   ![img](img/Jawaban%20Nama.png)
+   ![img](img/Jawaban%20Nama.png)<br>
    Penjelasan<br>
 
 - Pertama membuat nama function Alphabet, dengan parameter dinamis yaitu (nilai, pesan).
 - Data yang boleh dimasukkan adalah berupa "a-zA-Z".
 - Jika selain data "a-zA-Z" ini dimasukkan, maka akan muncul pesan Alert "alert(pesan);"<br>
-  ![img](img/Jawaban%20Nama1.png)
+  ![img](img/Jawaban%20Nama1.png)<br>
 
 2. Email<br>
    Pada email akan diberikan validasi masih berupa Regular Expression. Contoh: SardinAje1234@gmail.com (benar), sardinAje1234@gmail. (salah).<br>
-   ![img](img/Jawaban%20Gmail.png)
+   ![img](img/Jawaban%20Gmail.png)<br>
    Penjelasan<br>
 
 - membuat variabel email " var email = /^([a-zA-Z0-9_.+-])+@(([a-zA-Z0-9-])+.)+([a-zA-Z0-9]{2,4})+$/; " berupa huruf, angka dan simbol yang diperbolehkan dalam input sebuah email. Jika email salah maka akan ada pesan alert "alert(pesan);"<br>
-  ![img](img/Jawaban%20Gmail1.png)
+  ![img](img/Jawaban%20Gmail1.png)<br>
 
 Gambar dibawah adalah penulisan from yang benar<br>
-![img](img/Jawaban%20Benar.png)
+![img](img/Jawaban%20Benar.png)<br>
