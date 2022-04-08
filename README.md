@@ -389,7 +389,7 @@ Ini hasilnya setelah saya jalankan
 Membuat validasi nama, Email
 
 1. Nama<br>
-   Saya akan memberikan Validasi berupa inputan hanya boleh mengguankan Huruf/Alphabet saja. Contoh: Sardin (benar), Sardin31 (salah).<br>
+   Saya akan memberikan Validasi berupa inputan hanya boleh menggunakan Huruf/Alphabet saja. Contoh: Sardin (benar), Sardin31 (salah).<br>
    ![img](img/Jawaban%20Nama.png)<br>
    Penjelasan<br>
 
