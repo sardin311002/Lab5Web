@@ -1,3 +1,9 @@
+| Nama   | Sardin         |
+| ------ | -------------- |
+| NIM    | 312010135      |
+| Kelas  | TI.20.A1       |
+| Matkul | Pemograman web |
+
 # Langkah pengenalan JavaScript
 
 ```Html
@@ -334,6 +340,7 @@ Ini hasilnya setelah saya jalankan
 # HTML DOM
 
 Pilihan menggunakan checkBox dengan perhitungan otomatis
+
 ```Html
 <!DOCTYPE html>
 <html lang="en">
@@ -354,7 +361,7 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis
           harga = ele.value;
           if (total > 0) total -= parseInt(harga);
         }
-        document.getElementById("total").value = total; 
+        document.getElementById("total").value = total;
       }
     </script>
   </head>
@@ -369,5 +376,6 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis
   </body>
 </html>
 ```
+
 Ini hasilnya setelah saya jalankan
 ![img](img/ss11.1.png)
